@@ -9,7 +9,7 @@
 <p align="center">
   A highly customizable React-based portfolio template to showcase your skills, projects, and experience. This template features a modern, clean design, responsive layout, and easy-to-edit content, enabling you to highlight your work effectively.  
   <br><br>
-  🌐 **Live Preview:** [Check out my portfolio](https://sakilk130.vercel.app/)
+  🌐 **Live Preview:** [Check out my portfolio](https://anjali-pandey-portfolio.vercel.app/)
 </p>
 
 ---
@@ -98,7 +98,7 @@ You can deploy your portfolio using any of the following services:
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you encounter any issues or have ideas for improvements, feel free to [open an issue](https://github.com/sakilk130/react-portfolio-website/issues) or submit a pull request. Your feedback is greatly appreciated.
+Contributions are welcome! If you encounter any issues or have ideas for improvements, feel free to [open an issue](https://github.com/Ojha1111/portfolio-anjali-pandey/issues) or submit a pull request. Your feedback is greatly appreciated.
 
 ---
 
