@@ -1,7 +1,7 @@
 <h1 align="center">🌟 React Portfolio Website 🌟</h1>
 
 <p align="center">
-  <img src="./public/images/sample.png" alt="Portfolio Website Preview" width="600">
+  <img src="./public/images/preview.png" alt="Portfolio Website Preview" width="600">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Make sure you have the following installed on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sakilk130/react-portfolio-website.git
+   git clone https://github.com/Ojha1111/portfolio-anjali-pandey.git
    ```
 
 2. Navigate into the project directory:
