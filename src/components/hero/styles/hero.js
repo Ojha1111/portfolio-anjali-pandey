@@ -25,26 +25,16 @@ export const useStyles = makeStyles((theme) => ({
   },
   typedContainer: {
     position: 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: '100%',
-    maxWidth: '1200px',
-    textAlign: 'center',
-    zIndex: 1,
-    padding: '0 1rem',
     [theme.breakpoints.down('xs')]: {
       position: 'relative',
-      top: '0%',
-      left: '0%',
+      top: 'auto',
+      left: 'auto',
       transform: 'none',
       width: '100%',
-      height: '100%',
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'center',
-      padding: '4rem 1rem',
-      overflowY: 'auto',
+      height: 'auto',
+      display: 'block', // Simplified display
+      padding: '3rem 1rem',
+      marginTop: '2rem', // Ensure spacing from navbar
     },
   },
   dividerStub: {
