@@ -4,9 +4,7 @@
   <img src="./public/images/preview.png" alt="Portfolio Website Preview" width="600">
 </p>
 
-<p align="center">
-  <img src="./public/images/performance.png" alt="Lighthouse Performance Preview" width="600">
-</p>
+
 
 <p align="center">
   A highly customizable React-based portfolio template to showcase your skills, projects, and experience. This template features a modern, clean design, responsive layout, and easy-to-edit content, enabling you to highlight your work effectively.  
